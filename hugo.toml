@@ -30,13 +30,17 @@ title = "Alexi Gugushvili"
     url = "/teaching/"
     weight = 4
   [[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 5
+  [[menu.main]]
     name = "CV"
     url = "/cv/"
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
 [markup]
   [markup.goldmark]

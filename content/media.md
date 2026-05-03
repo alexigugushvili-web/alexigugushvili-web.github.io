@@ -2,29 +2,47 @@
 title: "Media"
 ---
 
-My research has been covered by major international media outlets. Below is a selection of recent and notable media coverage.
+My research has been covered by major international media outlets. Below is a selection of recent and notable coverage.
+
+## Featured In
+
+<div class="media-outlets">
+  <span class="media-badge">The Financial Times</span>
+  <span class="media-badge">The Guardian</span>
+  <span class="media-badge">The Times</span>
+  <span class="media-badge">BBC</span>
+  <span class="media-badge">Newsweek</span>
+  <span class="media-badge">NBC</span>
+  <span class="media-badge">Daily Mail</span>
+  <span class="media-badge">New York Post</span>
+  <span class="media-badge">Foreign Policy</span>
+  <span class="media-badge">Radio Free Europe</span>
+</div>
 
 ## Selected Coverage
 
-<div class="pub-section">
-
-<div class="pub-entry">
-<p class="pub-title">Social climbing may reduce the risk of an early death, researchers find</p>
-<p class="pub-authors">Daily Mail / Mail Online</p>
-<p class="pub-journal">Coverage of: Gugushvili, A. & Bulczak, G. (2026). "Subjective social status and mortality risk in the United States." Health Psychology.</p>
-<a href="https://www.dailymail.co.uk/news/article-15765335/Social-climbing-reduce-risk-early-death-researchers-find.html" class="pub-link">Article</a>
-</div>
-
+<div class="media-entry">
+  <p class="media-outlet">Daily Mail</p>
+  <p class="media-headline">Social climbing may reduce the risk of an early death, researchers find</p>
+  <p class="media-description">Coverage of: Gugushvili, A. & Bulczak, G. (2026). "Subjective social status and mortality risk in the United States: asymmetry and subgroup variation." <em>Health Psychology</em>.</p>
+  <a href="https://www.dailymail.co.uk/news/article-15765335/Social-climbing-reduce-risk-early-death-researchers-find.html" class="media-link">Read article &rarr;</a>
 </div>
 
 <div class="info-box">
-<p><strong>Note:</strong> This page is being updated. Additional coverage from The Financial Times, The Times, The Guardian, BBC, Newsweek, NBC, New York Post, Foreign Policy, Radio Free Europe, and La Documentation Francaise will be added shortly.</p>
+<p><strong>Note:</strong> Additional coverage items will be added. If you have seen coverage of my research, please let me know.</p>
 </div>
 
 ## Broadcast Interviews
 
-- BBC World Service
-- Radio Free Europe
+<div class="media-entry">
+  <p class="media-outlet">BBC World Service</p>
+  <p class="media-headline">Interview</p>
+</div>
+
+<div class="media-entry">
+  <p class="media-outlet">Radio Free Europe</p>
+  <p class="media-headline">Interview</p>
+</div>
 
 ## Media Inquiries
 

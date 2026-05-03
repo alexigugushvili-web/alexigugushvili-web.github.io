@@ -48,8 +48,10 @@ My research has been covered by major international media outlets. Below is a se
 </div>
 
 <div class="media-entry">
-  <p class="media-outlet">Radio Free Europe</p>
-  <p class="media-headline">Interview</p>
+  <p class="media-outlet">Radio Free Europe / Radio Liberty</p>
+  <p class="media-headline">Stalin and Putin in Russia and Georgia</p>
+  <p class="media-description">Coverage of: Gugushvili, A. & Kabachnik, P. (2019). "Stalin on Their Minds: A Comparative Analysis of Public Perceptions of the Soviet Dictator in Russia and Georgia." <em>International Journal of Sociology</em>, 49(5&ndash;6), 364&ndash;381.</p>
+  <a href="https://www.ekhokavkaza.com/amp/stalin-i-putin-v-rossii-i-gruzii/31342259.html" class="media-link">Read article &rarr;</a>
 </div>
 
 ## Media Inquiries

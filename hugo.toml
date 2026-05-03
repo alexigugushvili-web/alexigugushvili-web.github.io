@@ -1,7 +1,7 @@
 baseURL = "https://alexigugushvili.org/"
 languageCode = "en-us"
 title = "Alexi Gugushvili"
-theme = ""
+
 
 [params]
   description = "Professor of Sociology, University of Oslo"

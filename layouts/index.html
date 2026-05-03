@@ -1,0 +1,83 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <h1>Alexi Gugushvili</h1>
+      <p class="hero-subtitle">Professor of Sociology</p>
+      <p class="hero-affiliation">Department of Sociology and Human Geography<br>University of Oslo</p>
+      <p class="hero-intro">I study social stratification, intergenerational mobility, and inequality of opportunity. My research examines how social origins shape life outcomes and how people perceive these processes across different societies.</p>
+      <div class="hero-links">
+        <a href="/about/" class="btn btn-primary">About Me</a>
+        <a href="/publications/" class="btn btn-outline">Publications</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <div class="photo-placeholder">
+        <!-- Replace with your photo: save as /static/images/profile.jpg -->
+        <img src="/images/profile.jpg" alt="Alexi Gugushvili" onerror="this.parentElement.innerHTML='<div class=&#34;initials&#34;>AG</div>'">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="section-inner">
+    <h2>Research Highlights</h2>
+    <div class="research-cards">
+      <div class="card">
+        <div class="card-icon">&#9878;</div>
+        <h3>Social Stratification &amp; Mobility</h3>
+        <p>Examining trends, determinants, and consequences of intergenerational social mobility across societies.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">&#9879;</div>
+        <h3>Inequality of Opportunity</h3>
+        <p>Investigating how equality of opportunity is perceived, measured, and linked to population health outcomes.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">&#128202;</div>
+        <h3>Public Opinion &amp; Perceptions</h3>
+        <p>Understanding how people perceive their own social mobility and what drives these perceptions.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">&#127758;</div>
+        <h3>Comparative &amp; Post-Soviet Research</h3>
+        <p>Cross-national comparative analyses with special expertise in post-Soviet societies and European welfare states.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section alt-bg">
+  <div class="section-inner">
+    <h2>Recent Publications</h2>
+    <div class="pub-list-home">
+      <div class="pub-item">
+        <span class="pub-year">2026</span>
+        <div class="pub-details">
+          <p class="pub-title">What Are the Channels of Equality of Opportunity Perceptions in Germany, Sweden, and the United Kingdom?</p>
+          <p class="pub-authors">Gugushvili, A. &amp; Van Hootegem, A.</p>
+          <p class="pub-journal">Sociological Perspectives</p>
+        </div>
+      </div>
+      <div class="pub-item">
+        <span class="pub-year">2025</span>
+        <div class="pub-details">
+          <p class="pub-title">The Effect of Legislation on Perceived Disability Discrimination: A Heterogeneous Difference-in-Differences Analysis</p>
+          <p class="pub-authors">Gugushvili, A. &amp; Grue, J.</p>
+          <p class="pub-journal">Social Forces</p>
+        </div>
+      </div>
+      <div class="pub-item">
+        <span class="pub-year">2025</span>
+        <div class="pub-details">
+          <p class="pub-title">How Europeans Compare Putin and Stalin in the Context of Russia's War in Ukraine</p>
+          <p class="pub-authors">Gugushvili, A.</p>
+          <p class="pub-journal">European Politics and Society, 27(1), 194&ndash;218</p>
+        </div>
+      </div>
+    </div>
+    <a href="/publications/" class="btn btn-outline" style="margin-top:1.5rem;">View All Publications &rarr;</a>
+  </div>
+</section>
+{{ end }}

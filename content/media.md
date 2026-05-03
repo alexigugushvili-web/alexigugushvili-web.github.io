@@ -17,9 +17,17 @@ My research has been covered by major international media outlets. Below is a se
   <span class="media-badge">New York Post</span>
   <span class="media-badge">Foreign Policy</span>
   <span class="media-badge">Radio Free Europe</span>
+  <span class="media-badge">Klassekampen</span>
 </div>
 
 ## Selected Coverage
+
+<div class="media-entry">
+  <p class="media-outlet">Klassekampen</p>
+  <p class="media-headline">H&oslash;yere formue gir lengre liv</p>
+  <p class="media-description">Coverage of: Gugushvili, A. & Wiborg, &Oslash;.N. (2025). "Wealth and mortality among late-middle-aged individuals in Norway." <em>The Lancet Regional Health &ndash; Europe</em>, 48, 101113.</p>
+  <a href="https://klassekampen.no/artikkel/2025-06-03/hoyere-formue-gir-lengre-liv" class="media-link">Read article &rarr;</a>
+</div>
 
 <div class="media-entry">
   <p class="media-outlet">Daily Mail</p>

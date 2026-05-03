@@ -19,7 +19,7 @@ Moltke Moes vei 31, Harriet Holters hus
 
 - [Google Scholar](https://scholar.google.com/citations?user=i8GjBdQAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Alexi-Gugushvili-2)
-- [ORCID](https://orcid.org/0000-0003-2356-2931)
+- [ORCID](https://orcid.org/0000-0002-3933-9111)
 - [UiO Staff Page](https://www.sv.uio.no/iss/english/people/aca/alexig/)
 
 <div class="info-box">

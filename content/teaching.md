@@ -2,59 +2,48 @@
 title: "Teaching"
 ---
 
-I teach courses in sociology, social stratification, and quantitative research methods at the University of Oslo.
+I teach at undergraduate, postgraduate, and PhD levels at the University of Oslo. My teaching covers advanced statistical methods, population health and health inequalities, social inequalities, and quantitative methods.
 
-## Current and Recent Courses
+## Teaching Experience
 
 <table class="teaching-table">
   <thead>
     <tr>
-      <th>Course</th>
-      <th>Level</th>
       <th>Institution</th>
+      <th>Level</th>
+      <th>Topics</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>SOS2001 -- Modern Social Theory</td>
-      <td>Bachelor</td>
       <td>University of Oslo</td>
+      <td>BA, MA, PhD</td>
+      <td>Social inequalities, advanced statistical methods, population health</td>
+    </tr>
+    <tr>
+      <td>Erasmus University Rotterdam</td>
+      <td>BA, MA</td>
+      <td>Sociology</td>
+    </tr>
+    <tr>
+      <td>University of Oxford</td>
+      <td>MA</td>
+      <td>Comparative and quantitative methods</td>
+    </tr>
+    <tr>
+      <td>European University Institute</td>
+      <td>PhD</td>
+      <td>Quantitative methods</td>
     </tr>
   </tbody>
 </table>
-
-<div class="info-box">
-<p><strong>Note:</strong> Please update this section with your full current teaching portfolio. You can add more rows to the table above or restructure as needed.</p>
-</div>
-
-## Teaching Interests
-
-My teaching covers social stratification and inequality, classical and modern sociological theory, quantitative research methods and data analysis, comparative welfare state research, and the sociology of post-Soviet societies.
 
 ## Supervision
 
-I supervise Master's and PhD students working on topics related to social stratification, intergenerational mobility, inequality, public opinion, and comparative social research. If you are interested in pursuing a thesis in one of these areas, please feel free to [get in touch](/contact/).
+I have supervised 5 postdoctoral researchers, 3 PhD students, and over 30 master's theses.
 
-## Previous Teaching
+If you are interested in pursuing a thesis on topics related to social stratification, intergenerational mobility, inequality, public opinion, health inequalities, or comparative social research, please feel free to [get in touch](/contact/).
 
-<table class="teaching-table">
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Institution</th>
-      <th>Period</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Comparative and Quantitative Methods</td>
-      <td>University of Oxford</td>
-      <td>2018--2019</td>
-    </tr>
-    <tr>
-      <td>Sociology courses</td>
-      <td>Erasmus University Rotterdam</td>
-      <td>2019--2020</td>
-    </tr>
-  </tbody>
-</table>
+## PhD Programme Leadership
+
+I serve as Head of the PhD Program in Sociology at the University of Oslo (2022--present).

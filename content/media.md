@@ -51,10 +51,6 @@ My research has been covered by major international media outlets. Below is a se
   <a href="https://www.dailymail.co.uk/news/article-15765335/Social-climbing-reduce-risk-early-death-researchers-find.html" class="media-link">Read article &rarr;</a>
 </div>
 
-<div class="info-box">
-<p><strong>Note:</strong> Additional coverage items will be added. If you have seen coverage of my research, please let me know.</p>
-</div>
-
 ## Broadcast interviews
 
 <div class="media-entry">

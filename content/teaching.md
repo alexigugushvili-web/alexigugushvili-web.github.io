@@ -40,7 +40,7 @@ I teach at undergraduate, postgraduate, and PhD levels at the University of Oslo
 
 ## Supervision
 
-I have supervised 5 postdoctoral researchers, 3 PhD students, and over 30 master's theses.
+I have supervised postdoctoral researchers, PhD students, and numerous master's theses.
 
 If you are interested in pursuing a thesis on topics related to social stratification, intergenerational mobility, inequality, public opinion, health inequalities, or comparative social research, please feel free to [get in touch](/contact/).
 

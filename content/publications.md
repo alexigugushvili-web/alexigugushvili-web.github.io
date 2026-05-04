@@ -38,6 +38,12 @@ Over 120 publications including 80+ articles in peer-reviewed international jour
 <p class="pub-journal">SSM -- Population Health</p>
 </div>
 
+<div class="pub-entry">
+<p class="pub-title">Crowd-control chemicals and medical witness in Georgia</p>
+<p class="pub-authors">Gugushvili, A.</p>
+<p class="pub-journal">Medicine, Science and the Law</p>
+</div>
+
 </div>
 
 <div class="pub-section">
@@ -110,6 +116,18 @@ Over 120 publications including 80+ articles in peer-reviewed international jour
 <p class="pub-journal">Eurasian Geography and Economics</p>
 </div>
 
+<div class="pub-entry">
+<p class="pub-title">The effect of anti-discrimination legislation on individuals with disabilities in Nordic countries</p>
+<p class="pub-authors">Gugushvili, A., Grue, J., &amp; Finnvold, J.E.</p>
+<p class="pub-journal">Social Science &amp; Medicine</p>
+</div>
+
+<div class="pub-entry">
+<p class="pub-title">Origin, destination, or mobility? A systematic review of studies using diagonal reference models</p>
+<p class="pub-authors">Shi, S. &amp; Gugushvili, A.</p>
+<p class="pub-journal">Research in Social Stratification and Mobility, 97, 101047</p>
+</div>
+
 </div>
 
 <div class="pub-section">
@@ -134,6 +152,18 @@ Over 120 publications including 80+ articles in peer-reviewed international jour
 <p class="pub-journal">Journal of Health Psychology, 29(3), 282--296</p>
 </div>
 
+<div class="pub-entry">
+<p class="pub-title">Hazardous alcohol consumption in slow- and fast-privatized Russian industrial towns</p>
+<p class="pub-authors">Gugushvili, A., Azarova, A., Irdam, D., &amp; King, L.</p>
+<p class="pub-journal">Scientific Reports, 14(1), 11737</p>
+</div>
+
+<div class="pub-entry">
+<p class="pub-title">A longitudinal study of perceived social position and health-related quality of life</p>
+<p class="pub-authors">Gugushvili, A. &amp; Jarosz, E.</p>
+<p class="pub-journal">Social Science &amp; Medicine, 340, 116446</p>
+</div>
+
 </div>
 
 <div class="pub-section">
@@ -150,6 +180,12 @@ Over 120 publications including 80+ articles in peer-reviewed international jour
 <p class="pub-title">Physical attractiveness and intergenerational social mobility</p>
 <p class="pub-authors">Gugushvili, A. &amp; Bulczak, G.</p>
 <p class="pub-journal">Social Science Quarterly, 104(5), 1265--1280</p>
+</div>
+
+<div class="pub-entry">
+<p class="pub-title">A counterexample to secularization theory? Assessing the Georgian religious revival</p>
+<p class="pub-authors">Stolz, J., Gugushvili, A., Molteni, F., &amp; Antonietti, J.P.</p>
+<p class="pub-journal">The British Journal of Sociology, 74(4), 581--597</p>
 </div>
 
 </div>

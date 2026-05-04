@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Map/globe with Eastern Europe highlighted + memory/thought bubble -->
+  <circle cx="60" cy="60" r="54" fill="#e8f0f8"/>
+  <circle cx="55" cy="62" r="28" stroke="#2d5a8e" stroke-width="2.5" fill="none"/>
+  <ellipse cx="55" cy="62" rx="12" ry="28" stroke="#2d5a8e" stroke-width="1.5" fill="none"/>
+  <path d="M27 62 L83 62" stroke="#2d5a8e" stroke-width="1.5"/>
+  <path d="M30 48 L80 48" stroke="#2d5a8e" stroke-width="1.5"/>
+  <path d="M30 76 L80 76" stroke="#2d5a8e" stroke-width="1.5"/>
+  <circle cx="65" cy="50" r="5" fill="#2d5a8e" opacity="0.5"/>
+  <circle cx="88" cy="30" r="9" stroke="#2d5a8e" stroke-width="2" fill="white"/>
+  <circle cx="80" cy="36" r="3" stroke="#2d5a8e" stroke-width="1.5" fill="white"/>
+  <circle cx="76" cy="40" r="1.5" fill="#2d5a8e"/>
+</svg>

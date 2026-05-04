@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Layered strata with arrows showing mobility -->
+  <circle cx="60" cy="60" r="54" fill="#e8f0f8"/>
+  <rect x="28" y="30" width="64" height="12" rx="3" fill="#2d5a8e" opacity="0.3"/>
+  <rect x="28" y="48" width="64" height="12" rx="3" fill="#2d5a8e" opacity="0.5"/>
+  <rect x="28" y="66" width="64" height="12" rx="3" fill="#2d5a8e" opacity="0.7"/>
+  <rect x="28" y="84" width="64" height="12" rx="3" fill="#2d5a8e" opacity="0.9"/>
+  <path d="M78 82 L78 38" stroke="#2d5a8e" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <path d="M74 42 L78 34 L82 42" stroke="#2d5a8e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 40 L42 80" stroke="#2d5a8e" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <path d="M38 76 L42 84 L46 76" stroke="#2d5a8e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

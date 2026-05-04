@@ -45,6 +45,13 @@ My research has been covered by major international media outlets. Below is a se
 </div>
 
 <div class="media-entry">
+  <p class="media-outlet">Newsweek</p>
+  <p class="media-headline">Key to happiness for men revealed by new study</p>
+  <p class="media-description">Coverage of: Gugushvili, A. (2019). &ldquo;&lsquo;Falling from grace&rsquo; and &lsquo;rising from rags&rsquo;: Intergenerational educational mobility and depressive symptoms.&rdquo; <em>Social Science &amp; Medicine</em>, 222, 294&ndash;304.</p>
+  <a href="https://www.newsweek.com/key-happiness-men-revealed-new-study-878474" class="media-link">Read article &rarr;</a>
+</div>
+
+<div class="media-entry">
   <p class="media-outlet">Daily Mail</p>
   <p class="media-headline">Social climbing may reduce the risk of an early death, researchers find</p>
   <p class="media-description">Coverage of: Gugushvili, A. & Bulczak, G. (2026). "Subjective social status and mortality risk in the United States: asymmetry and subgroup variation." <em>Health Psychology</em>.</p>

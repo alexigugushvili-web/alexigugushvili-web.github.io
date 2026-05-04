@@ -4,7 +4,7 @@ title: "Teaching"
 
 I teach at undergraduate, postgraduate, and PhD levels at the University of Oslo. My teaching covers advanced statistical methods, population health and health inequalities, social inequalities, and quantitative methods.
 
-## Teaching Experience
+## Teaching experience
 
 <table class="teaching-table">
   <thead>
@@ -44,6 +44,6 @@ I have supervised 5 postdoctoral researchers, 3 PhD students, and over 30 master
 
 If you are interested in pursuing a thesis on topics related to social stratification, intergenerational mobility, inequality, public opinion, health inequalities, or comparative social research, please feel free to [get in touch](/contact/).
 
-## PhD Programme Leadership
+## PhD programme leadership
 
 I serve as Head of the PhD Program in Sociology at the University of Oslo (2022--present).

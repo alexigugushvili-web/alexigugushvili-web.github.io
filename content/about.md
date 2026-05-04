@@ -7,29 +7,31 @@ title: "About"
 
 I am a Professor of Sociology in the Department of Sociology and Human Geography at the University of Oslo and Editor-in-Chief of *European Societies*, the flagship journal of the European Sociological Association.
 
-My research focuses on social stratification, intergenerational mobility, and inequality of opportunity, examining how social origins shape life outcomes across different societal contexts. I have published over 120 publications including 80+ articles in peer-reviewed international journals. As of May 2026, Google Scholar records over 1,700 citations, an H-index of 28, and an i10-index of 67.
+My research focuses on health inequalities, social stratification, and inequality of opportunity, examining how social origins and mobility perceptions shape health outcomes, political attitudes, and life chances across different societal contexts. My work has been published in leading journals across sociology, public health, and political science.
 
-## Academic Background
+## Academic background
 
-I hold a PhD in Political and Social Sciences from the European University Institute in Florence, Italy. Before joining the University of Oslo, I held positions at the University of Oxford (Nuffield College and Department of Social Policy and Intervention), Erasmus University Rotterdam, the University of Cambridge, BIGSSS at the University of Bremen, and the International School of Economics at Tbilisi State University. I was also a visiting researcher at the Kennedy School of Government, Harvard University.
+I hold a PhD in Political and Social Sciences from the European University Institute in Florence, Italy. Before joining the University of Oslo, I held positions at the University of Oxford (Nuffield College and Department of Social Policy and Intervention), Erasmus University Rotterdam, the University of Cambridge, and the Bremen International Graduate School of Social Sciences (BIGSSS). I was also a visiting researcher at the Kennedy School of Government, Harvard University.
 
-## Research Focus
+## Research focus
 
-My work spans several interconnected areas. I study the trends, determinants, and consequences of intergenerational social mobility, both objective and subjective. A central thread in my research is how people perceive their own mobility and what these perceptions mean for wellbeing, political attitudes, and support for redistributive policies.
+My recent research centres on the health consequences of social inequality and mobility. I investigate how perceived and objective social mobility affects mortality, wellbeing, and health behaviours, drawing on register data, large-scale surveys, and experimental designs. A key finding of my work is that equality of opportunity is linked to lower mortality at the population level.
 
-I also investigate equality of opportunity and its links to population health, disability and social outcomes, and the role of public opinion in shaping social policy preferences. Much of my work is comparative, drawing on data from European welfare democracies and post-socialist transition societies.
+I also study how inequality shapes political attitudes and behaviour, including the relationship between downward mobility and support for far-right parties, and how major geopolitical events -- particularly Russia's war in Ukraine -- reshape mobility perceptions across Europe.
 
-More recently, I have been examining European perspectives on Russia's war in Ukraine, collective memory of the Soviet past, and how major geopolitical events reshape perceptions of social mobility across the continent.
+Another strand of my work examines disability and social outcomes, investigating whether welfare states deliver on their promise of equalising outcomes for people with disabilities, and the effects of anti-discrimination legislation.
+
+Finally, I maintain an active research programme on collective memory and post-Soviet societies, with particular focus on perceptions of Stalin and the Soviet past.
 
 ## Methods
 
-I work primarily with quantitative methods, including survey experiments, register-based data, multilevel modelling, and causal inference techniques such as difference-in-differences analysis. I use both nationally representative and cross-national comparative datasets.
+I work primarily with quantitative methods, including survey experiments, register-based data, multilevel modelling, and causal inference techniques such as difference-in-differences analysis. I also employ machine learning approaches, large language models for data analysis, and qualitative methods. I use both nationally representative and cross-national comparative datasets.
 
-## Affiliations and Networks
+## Affiliations and networks
 
 - Department of Sociology and Human Geography, University of Oslo
-- Non-Stipendiary Research Fellow, Nuffield College, University of Oxford (2020--present)
-- Associated Researcher, Polish Academy of Sciences, Warsaw (2019--present)
+- Non-Stipendiary Research Fellow, Nuffield College, University of Oxford
+- Associated Researcher, Polish Academy of Sciences, Warsaw
 
 </div>
 

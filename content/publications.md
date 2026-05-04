@@ -180,7 +180,7 @@ Over 120 publications including 80+ articles in peer-reviewed international jour
 
 <div class="pub-section">
 
-## Selected Earlier Publications
+## Selected earlier publications
 
 <div class="pub-entry">
 <p class="pub-title">Why do people perceive themselves as being downwardly or upwardly mobile?</p>

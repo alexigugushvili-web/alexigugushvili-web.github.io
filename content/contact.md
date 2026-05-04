@@ -15,7 +15,7 @@ University of Oslo
 Moltke Moes vei 31, Harriet Holters hus
 0851 Oslo, Norway
 
-## Online Profiles
+## Online profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=i8GjBdQAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Alexi-Gugushvili-2)

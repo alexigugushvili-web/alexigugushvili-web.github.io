@@ -4,7 +4,7 @@ title: "Media"
 
 My research has been covered by major international media outlets. Below is a selection of recent and notable coverage.
 
-## Featured In
+## Featured in
 
 <div class="media-outlets">
   <span class="media-badge">The Financial Times</span>
@@ -21,7 +21,7 @@ My research has been covered by major international media outlets. Below is a se
   <span class="media-badge">Aftenposten</span>
 </div>
 
-## Selected Coverage
+## Selected coverage
 
 <div class="media-entry">
   <p class="media-outlet">Aftenposten</p>
@@ -55,7 +55,7 @@ My research has been covered by major international media outlets. Below is a se
 <p><strong>Note:</strong> Additional coverage items will be added. If you have seen coverage of my research, please let me know.</p>
 </div>
 
-## Broadcast Interviews
+## Broadcast interviews
 
 <div class="media-entry">
   <p class="media-outlet">BBC World Service</p>
@@ -69,7 +69,7 @@ My research has been covered by major international media outlets. Below is a se
   <a href="https://www.ekhokavkaza.com/amp/stalin-i-putin-v-rossii-i-gruzii/31342259.html" class="media-link">Read article &rarr;</a>
 </div>
 
-## Media Inquiries
+## Media inquiries
 
 I am available for interviews and commentary on topics related to social mobility, inequality, health disparities, disability, post-Soviet politics, and the war in Ukraine.
 

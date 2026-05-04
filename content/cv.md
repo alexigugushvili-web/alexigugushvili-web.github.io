@@ -46,12 +46,8 @@ Tbilisi State University, Georgia (2005)
 
 - Editor-in-Chief, *European Societies* (flagship journal of the European Sociological Association), 2021--present
 - Head of the PhD Program in Sociology, University of Oslo, 2022--present
-- Member of the Wilhelm Aubert Memorial Lecture selection committee, 2024--present
-- Appointed member, European Cooperation in Science and Technology (COST) from Norway, 2025--present
+- Organizer of the Wilhelm Aubert Memorial Lectures, 2024--present
 
-## Research interests
-
-Social stratification, intergenerational mobility, inequality of opportunity, health inequalities, disability and social outcomes, public opinion and welfare attitudes, collective memory, political sociology, comparative research, quantitative methods.
 
 ## Selected grants and fellowships
 
@@ -67,7 +63,7 @@ Total competitive funding secured: approximately €1,000,000. Finalist (invited
 ## Academic service
 
 - Peer review: Ranked in the 99th percentile of reviewers on Web of Science. Regular reviewer for *American Sociological Review*, *American Journal of Sociology*, *The Lancet*, *Nature Human Behaviour*, and approximately 50 other journals.
-- Research evaluation: External expert for ERC Starting Grant evaluations (2024). Foreign member of the Expert Panel Team, National Science Centre of Poland (2022--present). Expert reviewer for the UK ESRC, Swiss, and Danish Science Foundations.
+- Research evaluation: External expert for ERC Starting Grant evaluations. Foreign member of the Expert Panel Team, National Science Centre of Poland. Expert reviewer for the UK ESRC, Swiss, and Danish Science Foundations.
 - Committees: Chair of professorial promotion committees and PhD defence committees at multiple Norwegian and international universities.
 
 ## Selected invited talks and keynotes
@@ -85,6 +81,3 @@ Total competitive funding secured: approximately €1,000,000. Finalist (invited
 
 Over a decade of policy advisory work. Consultancy for the World Bank, the Robert Schuman Centre for Advanced Studies, the EU Democracy Observatory, and the European Training Foundation. Work with the International Centre for Migration Policy Development was instrumental in facilitating Georgia's visa-free travel regime to the Schengen area (effective since 2017).
 
-<div class="info-box">
-<p><strong>Download:</strong> A full PDF version of my CV is available upon request. <!-- Add link: <a href="/files/Gugushvili_CV.pdf">Download CV (PDF)</a> --></p>
-</div>

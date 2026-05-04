@@ -18,9 +18,17 @@ My research has been covered by major international media outlets. Below is a se
   <span class="media-badge">Foreign Policy</span>
   <span class="media-badge">Radio Free Europe</span>
   <span class="media-badge">Klassekampen</span>
+  <span class="media-badge">Aftenposten</span>
 </div>
 
 ## Selected Coverage
+
+<div class="media-entry">
+  <p class="media-outlet">Aftenposten</p>
+  <p class="media-headline">Vi har forsket p&aring; funksjonshemning. Resultatene er lite flatterende for Norge</p>
+  <p class="media-description">Coverage of three studies on disability in Norway: Gugushvili, A. (2024). "Early-life impairments, chronic health conditions, and income mobility." <em>The British Journal of Sociology</em>, 75(1), 56&ndash;64; Gugushvili, A. et al. (2025). "A register-based study of early-life disabilities and income attainment in adulthood." <em>Socius</em>; and Gugushvili, A. et al. (2023). "No evidence that social-democratic welfare states equalize valued outcomes for individuals with disabilities." <em>Social Science &amp; Medicine</em>.</p>
+  <a href="https://www.aftenposten.no/meninger/kronikk/i/KMa9LM/vi-har-forsket-paa-funksjonshemning-resultatene-er-lite-flatterende-for-norge" class="media-link">Read article &rarr;</a>
+</div>
 
 <div class="media-entry">
   <p class="media-outlet">Klassekampen</p>

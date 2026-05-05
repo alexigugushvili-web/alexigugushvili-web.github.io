@@ -77,7 +77,7 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 <div class="pub-entry">
 <p class="pub-title">How Europeans compare Putin and Stalin in the context of Russia's war in Ukraine</p>
 <p class="pub-authors">Gugushvili, A.</p>
-<p class="pub-journal">Journal of Contemporary European Studies, 33(3), 950--974</p>
+<p class="pub-journal">European Politics and Society, 27(1), 194--218</p>
 </div>
 
 <div class="pub-entry">
@@ -95,7 +95,7 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 <div class="pub-entry">
 <p class="pub-title">Russian public perceptions of the war in Ukraine: a paradox of optimism amid crisis</p>
 <p class="pub-authors">Gugushvili, A.</p>
-<p class="pub-journal">Eurasian Geography and Economics</p>
+<p class="pub-journal">Journal of Contemporary European Studies, 33(3), 950--974</p>
 </div>
 
 <div class="pub-entry">
@@ -202,14 +202,14 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 <div class="pub-entry">
 <p class="pub-title">Population health, not individual health, drives support for populist parties</p>
-<p class="pub-authors">Gugushvili, A. &amp; Reeves, A.</p>
-<p class="pub-journal">PNAS Nexus, 1(4), pgac167</p>
+<p class="pub-authors">Oude Groeniger, J., Gugushvili, A., de Koster, W., &amp; van der Waal, J.</p>
+<p class="pub-journal">PNAS Nexus, 1(3), pgac057</p>
 </div>
 
 <div class="pub-entry">
 <p class="pub-title">Downward income mobility among individuals with poor initial health is linked with higher cardiometabolic risk</p>
-<p class="pub-authors">Gugushvili, A. &amp; Reeves, A.</p>
-<p class="pub-journal">PNAS Nexus, 1(3), pgac062</p>
+<p class="pub-authors">Bulczak, G. &amp; Gugushvili, A.</p>
+<p class="pub-journal">PNAS Nexus, 1(1), pgac012</p>
 </div>
 
 </div>

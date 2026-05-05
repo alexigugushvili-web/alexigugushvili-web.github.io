@@ -18,14 +18,14 @@ More recently, I have studied how perceptions of mobility differ from actual tra
 
 <div class="pub-entry">
 <p class="pub-title">&lsquo;Falling from grace&rsquo; and &lsquo;rising from rags&rsquo;: intergenerational educational mobility and depressive symptoms</p>
-<p class="pub-authors">Gugushvili, A.</p>
+<p class="pub-authors">Gugushvili, A., Zhao, Y., &amp; Bukodi, E.</p>
 <p class="pub-journal">Social Science &amp; Medicine, 222, 294&ndash;304 (2019)</p>
 </div>
 
 <div class="pub-entry">
 <p class="pub-title">Intergenerational mobility in relative educational attainment and health-related behaviours</p>
-<p class="pub-authors">Gugushvili, A., Bukodi, E., &amp; Goldthorpe, J.H.</p>
-<p class="pub-journal">Social Science &amp; Medicine, 232, 129&ndash;141 (2019)</p>
+<p class="pub-authors">Gugushvili, A., McKee, M., Murphy, M., Azarova, A., Irdam, D., Doniec, K., &amp; King, L.</p>
+<p class="pub-journal">Social Indicators Research, 141(1), 413&ndash;441 (2019)</p>
 </div>
 
 <div class="pub-entry">

@@ -30,14 +30,14 @@ This body of work demonstrates that the relationship between social position and
 
 <div class="pub-entry">
 <p class="pub-title">Equality of opportunity is linked to lower mortality in Europe</p>
-<p class="pub-authors">Gugushvili, A.</p>
+<p class="pub-authors">Gugushvili, A. &amp; Kaiser, C.</p>
 <p class="pub-journal">Journal of Epidemiology and Community Health, 74(2), 151&ndash;157 (2020)</p>
 </div>
 
 <div class="pub-entry">
 <p class="pub-title">Downward income mobility among individuals with poor initial health is linked with higher cardiometabolic risk</p>
-<p class="pub-authors">Gugushvili, A. &amp; Reeves, A.</p>
-<p class="pub-journal">PNAS Nexus, 1(3), pgac062 (2022)</p>
+<p class="pub-authors">Bulczak, G. &amp; Gugushvili, A.</p>
+<p class="pub-journal">PNAS Nexus, 1(1), pgac012 (2022)</p>
 </div>
 
 </div>

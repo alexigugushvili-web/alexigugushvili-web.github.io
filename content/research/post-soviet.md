@@ -19,7 +19,7 @@ This research connects cultural sociology, political attitudes, and geopolitics,
 <div class="pub-entry">
 <p class="pub-title">How Europeans compare Putin and Stalin in the context of Russia's war in Ukraine</p>
 <p class="pub-authors">Gugushvili, A.</p>
-<p class="pub-journal">Journal of Contemporary European Studies, 33(3), 950&ndash;974 (2025)</p>
+<p class="pub-journal">European Politics and Society, 27(1), 194&ndash;218 (2026)</p>
 </div>
 
 <div class="pub-entry">
@@ -31,13 +31,13 @@ This research connects cultural sociology, political attitudes, and geopolitics,
 <div class="pub-entry">
 <p class="pub-title">Russian public perceptions of the war in Ukraine: a paradox of optimism amid crisis</p>
 <p class="pub-authors">Gugushvili, A.</p>
-<p class="pub-journal">Eurasian Geography and Economics (2025)</p>
+<p class="pub-journal">Journal of Contemporary European Studies, 33(3), 950&ndash;974 (2025)</p>
 </div>
 
 <div class="pub-entry">
 <p class="pub-title">Stalin on Their Minds: a comparative analysis of public perceptions of the Soviet dictator in Russia and Georgia</p>
 <p class="pub-authors">Gugushvili, A. &amp; Kabachnik, P.</p>
-<p class="pub-journal">International Journal of Sociology, 49(5&ndash;6), 364&ndash;381 (2019)</p>
+<p class="pub-journal">International Journal of Sociology, 49(5&ndash;6), 317&ndash;341 (2019)</p>
 </div>
 
 </div>

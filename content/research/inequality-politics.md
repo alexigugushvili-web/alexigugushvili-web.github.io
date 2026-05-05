@@ -18,8 +18,8 @@ This research programme bridges social stratification and political sociology, s
 
 <div class="pub-entry">
 <p class="pub-title">Population health, not individual health, drives support for populist parties</p>
-<p class="pub-authors">Gugushvili, A. &amp; Reeves, A.</p>
-<p class="pub-journal">PNAS Nexus, 1(4), pgac167 (2022)</p>
+<p class="pub-authors">Oude Groeniger, J., Gugushvili, A., de Koster, W., &amp; van der Waal, J.</p>
+<p class="pub-journal">PNAS Nexus, 1(3), pgac057 (2022)</p>
 </div>
 
 <div class="pub-entry">
@@ -37,7 +37,7 @@ This research programme bridges social stratification and political sociology, s
 <div class="pub-entry">
 <p class="pub-title">Why do people perceive themselves as being downwardly or upwardly mobile?</p>
 <p class="pub-authors">Gugushvili, A.</p>
-<p class="pub-journal">Acta Sociologica, 63(4), 373&ndash;392 (2020)</p>
+<p class="pub-journal">Acta Sociologica, 64(1), 3&ndash;23 (2021)</p>
 </div>
 
 </div>

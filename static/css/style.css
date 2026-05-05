@@ -227,6 +227,12 @@ a:hover { color: var(--color-accent-dark); }
   border-radius: 12px;
   padding: 2rem;
   transition: all 0.25s;
+  text-decoration: none;
+  color: var(--color-text);
+  display: block;
+}
+.card p {
+  color: var(--color-text-light);
 }
 .card:hover {
   border-color: var(--color-accent);

@@ -3,11 +3,13 @@
   <div class="page-inner">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    {{ range .Pages }}
-      <div class="list-item">
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        {{ .Summary }}
-      </div>
+    {{ if not .Content }}
+      {{ range .Pages }}
+        <div class="list-item">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          {{ .Summary }}
+        </div>
+      {{ end }}
     {{ end }}
   </div>
 </article>

@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-Over 120 publications including 80+ articles in peer-reviewed international journals. For a complete and up-to-date list, see my [Google Scholar](https://scholar.google.com/citations?user=i8GjBdQAAAAJ) profile.
+For a complete and up-to-date list, see my [Google Scholar](https://scholar.google.com/citations?user=i8GjBdQAAAAJ) profile.
 
 <div class="pub-section">
 
